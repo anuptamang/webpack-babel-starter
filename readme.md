@@ -7,7 +7,7 @@
 ### To get started:
 
 1. Download or Clone this repo.
-2. cd webpack-babel-starter
+2. Go to the root folder
 3. npm install
 4. npm run start
 5. npm run build
