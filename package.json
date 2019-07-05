@@ -4,7 +4,7 @@
   "description": "This is the webpack babel starter guide",
   "main": "app.js",
   "scripts": {
-    "start": "webpack-dev-server --output-public-path=/build/  --mode development --progress --open --hot",
+    "start": "webpack-dev-server --output-public-path=/build/  --mode development --open --hot",
     "build": "webpack --mode production"
   },
   "repository": {

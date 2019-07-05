@@ -10,4 +10,4 @@ async function getUserAsync(name) {
 }
 
 getUserAsync('yourUsernameHere')
-    .then(data => console.log(data.following_url)); 
+    .then(data => console.log(data)); 
