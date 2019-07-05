@@ -1,5 +1,6 @@
 //import dependency to work async/await/ promises/ fetch in IE
 import "isomorphic-fetch";
+import '../styles/main.scss';
 
 console.log('hello webpack');
 
