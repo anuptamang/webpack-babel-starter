@@ -1,5 +1,4 @@
+//custom variables goes here
 @import 'base/variables';
 
-h1 {
-    color:$green;
-}
+@import '~bootstrap/scss/bootstrap';
