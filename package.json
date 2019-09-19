@@ -1,7 +1,7 @@
 {
   "name": "webpack-babel-starter",
   "version": "1.0.0",
-  "description": "This is the webpack babel starter guide",
+  "description": "This is the webpack babel starter",
   "main": "app.js",
   "scripts": {
     "start": "webpack-dev-server --output-public-path=/build/  --mode development --open --hot",
@@ -39,9 +39,7 @@
     "style-loader": "^0.23.1",
     "webpack": "^4.35.2",
     "webpack-cli": "^3.3.5",
-    "webpack-dev-server": "^3.7.2"
-  },
-  "dependencies": {
+    "webpack-dev-server": "^3.7.2",
     "@babel/polyfill": "^7.4.4",
     "es6-promise": "^4.2.8",
     "isomorphic-fetch": "^2.2.1"
